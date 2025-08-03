@@ -1,5 +1,4 @@
-=======
-# 30-Days-of-AI-Voice-Agents #Day 1 Project Setup
+# Day 1 Project Setup
 
 # Flask Web Application
 
@@ -34,13 +33,9 @@ A basic Flask web application with proper project structure.
 6. Open http://localhost:5000 in your browser
 
 # Output
-
-<<<<<<< HEAD
-!(image.png)
-
-!(image-1.png)
-
 ![](image.png)
 
-!(image-1.png)
+![](image-1.png)
+
+
 
