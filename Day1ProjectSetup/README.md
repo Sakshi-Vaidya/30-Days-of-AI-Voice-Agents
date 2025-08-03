@@ -1,5 +1,10 @@
+<<<<<<< HEAD
+
+<<<<<<<< HEAD:Day1ProjectSetup/README.md
+=======
 # 30-Days-of-AI-Voice-Agents #Day 1 Project Setup
 
+>>>>>>> 42f02dace0a1633162cbd9c6dd27f08f375eaea5
 # Flask Web Application
 
 A basic Flask web application with proper project structure.
@@ -34,6 +39,14 @@ A basic Flask web application with proper project structure.
 
 # Output
 
+<<<<<<< HEAD
 !(image.png)
 
 !(image-1.png)
+========
+>>>>>>>> 42f02dace0a1633162cbd9c6dd27f08f375eaea5:README.md
+=======
+![](image.png)
+
+![alt text](image-1.png)
+>>>>>>> 42f02dace0a1633162cbd9c6dd27f08f375eaea5
